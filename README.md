@@ -1,5 +1,5 @@
 # 💫About Me :
-: woman_technologist : I am currently working on Javascript30, Wordpress, and freeCodeCamp's Javascript Certification. 
+:woman_technologist: I am currently working on Javascript30, Wordpress, and freeCodeCamp's Javascript Certification. 
 
 :computer: I am interested in learning ReactJS, sharpening my CSS skills and creating a personal blog.
 
