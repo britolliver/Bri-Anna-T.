@@ -1,9 +1,9 @@
 # 💫About Me :
 :woman_technologist: I am currently working on Javascript30, Wordpress, and freeCodeCamp's Javascript Certification. 
 
-:computer: I am interested in learning ReactJS, sharpening my CSS skills and creating a personal blog.
+:smile: I am interested in learning ReactJS, sharpening my CSS skills and creating a personal blog.
 
-:envelope_with_arrow: I can be reached via [LinkedIn](https://www.linkedin.com/in/britolliver)
+:envelope_with_arrow: I can be reached via [LinkedIn](https://www.linkedin.com/in/britolliver).
 
 
 
